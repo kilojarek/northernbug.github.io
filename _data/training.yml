@@ -68,6 +68,16 @@
   link: http://sbc.shef.ac.uk/training/rna-seq-in-r-2019-11-13/
   
 
+- title: Next Generation Biologists’ Genomics Workshop
+  subtitle: Introduction to command-line analysis of next-generation sequencing data (QC, mapping, variant calling and cloud computing)
+  description: Next Generation Biologists: Essential Computing Skills for Molecular Biology is a BBSRC-STARs programme-funded project to introduce and train researchers in the skills and best practices in scientific computing and bioinformatics. Programme will be based on (but not identical to) the new Carpentries’ Genomics curriculum and will include manipulation of FASTQ files, alignment to reference genome, variant calling and introduction to cloud computing.
+  date: 16-12-2019
+  duration: 2
+  institute: University of Leeds
+  city: Leeds
+  location: TBA
+  link: http://nextgenbiologists.org
+  
 - title: Nanopore Sequencing & Data Analysis
   subtitle: Learn about nanopore sequecning and data analysis by performing your own 16S sequecning experiement!
   description: Learn - The science behind nanopore sequencing, How to prepare a 16S amplicon library for sequencing, Loading a library onto a MinION flow cell, Sequencing on the MinION platform, Basics of nanopore data, Analysis of our 16S data using Galaxy
@@ -97,7 +107,6 @@
   city: Sheffield
   location: Pam Liversidge Design Studio 1 - D06
   link: http://sbc.shef.ac.uk/training/r-introduction-2020-03-03/
-  
   
 - title: Statistical Analysis of Biological Data in R
   subtitle: Using R for the analysis of biological data
